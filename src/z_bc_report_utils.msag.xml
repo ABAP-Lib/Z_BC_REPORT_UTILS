@@ -12,13 +12,13 @@
      <SPRSL>E</SPRSL>
      <ARBGB>Z_BC_REPORT_UTILS</ARBGB>
      <MSGNR>001</MSGNR>
-     <TEXT>Erro ao ler lista da memória com função &1</TEXT>
+     <TEXT>Erro ao ler lista da memória com função &amp;1</TEXT>
     </T100>
     <T100>
      <SPRSL>E</SPRSL>
      <ARBGB>Z_BC_REPORT_UTILS</ARBGB>
      <MSGNR>002</MSGNR>
-     <TEXT>Erro ao converter lista para ASCII com função &1</TEXT>
+     <TEXT>Erro ao converter lista para ASCII com função &amp;1</TEXT>
     </T100>
    </T100>
   </asx:values>
