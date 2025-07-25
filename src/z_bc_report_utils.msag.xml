@@ -4,18 +4,18 @@
   <asx:values>
    <T100A>
     <ARBGB>Z_BC_REPORT_UTILS</ARBGB>
-    <MASTERLANG>E</MASTERLANG>
+    <MASTERLANG>P</MASTERLANG>
     <STEXT>Mensagens para utilitários de relatório</STEXT>
    </T100A>
    <T100>
     <T100>
-     <SPRSL>E</SPRSL>
+     <SPRSL>P</SPRSL>
      <ARBGB>Z_BC_REPORT_UTILS</ARBGB>
      <MSGNR>001</MSGNR>
      <TEXT>Erro ao ler lista da memória com função &amp;1</TEXT>
     </T100>
     <T100>
-     <SPRSL>E</SPRSL>
+     <SPRSL>P</SPRSL>
      <ARBGB>Z_BC_REPORT_UTILS</ARBGB>
      <MSGNR>002</MSGNR>
      <TEXT>Erro ao converter lista para ASCII com função &amp;1</TEXT>
